@@ -1,8 +1,3 @@
-# ProductCommsAgentSwarm
-The goal of this project is to take a single product feature as input and automatically generate two distinct pieces of communication material: a concise Social Media Post and a detailed User Documentation FAQ Entry.
-
-This document provides an overview and setup instructions for the **Product Communications Agent Swarm** project.
-
 # 💬 The Product Communications Agent Swarm
 
 The **Product Communications Agent Swarm** is a Retrieval-Augmented Generation (RAG) system built using **LlamaIndex** and **LangChain** to efficiently generate varied communication materials—from short social media copy to detailed documentation—all based on a single source of truth (your internal product documents).
