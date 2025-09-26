@@ -2,5 +2,8 @@ python-dotenv
 langchain
 llama-index
 openai
+langchain-openai
+langchain-ollama
+langchain-community
 # Add specific vector store dependency if you move beyond the default
 # e.g., pinecone-client, chromadb
