@@ -1,0 +1,13 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Secret/Environment variables
+.env
+
+# LlamaIndex/Vector Store Data (DO NOT COMMIT LARGE FILES)
+storage/

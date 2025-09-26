@@ -1,0 +1,17 @@
+# Voice (Personality)
+What we are: Helpful, Knowledgeable, Forward-thinking
+What we are NOT: Corporate, overly formal, jargon-heavy
+
+# Tone (Attitude)
+What we are: Enthusiastic (Social Media), Clear and Objective (Documentation)
+What we are NOT: Hype-driven, misleading, or overly casual
+
+# Target Audience
+* Product Managers
+* Software Engineers
+They value efficiency, metrics and technical accuracy.
+
+Specific Style Rules:
+* Social Media: Use emojis sparingly (1-2 per post) and focus on the metric (e.g., 35% COI reduction). Always use #SynapseFlow.
+* Documentation: Use a Q&A format and emphasize privacy and zero latency. Avoid exclamation points.
+* Key Phrases to Use: "Focus on what matters," "Intelligent prioritization," "Unlock true efficiency."
